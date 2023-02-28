@@ -1,0 +1,9 @@
+footer { background-color: #005677; color: white; text-align: center;}
+h1, h2 { background-color: #c4c4c4;color: #005677; font-family: 'Times New Roman', Times, serif }
+h1 { text-align: center}
+.batman { background-color: #e6e6e6; text-align: center; }
+div { display: block;}
+
+.italic {font-style: italic; font-weight: bold;}
+.bold {font-weight: bold;}
+#all {font-family: 'Times New Roman', Times, serif;}
